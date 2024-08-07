@@ -52,5 +52,3 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ## Contact
 
 For any questions or inquiries, please reach out to me at: titandigitalsoft@gmail.com
-
-```
